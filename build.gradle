@@ -20,6 +20,6 @@ dependencies {
 }
 
 launch4j {
-  mainClassName = 'src.main.java.SwingDemo'
+  mainClassName = 'SwingDemo'
   outfile = 'Main.exe'
 }
